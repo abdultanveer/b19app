@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">b19app</string>
+    <string name="enter_password">输入密码</string>
+    <string name="enter_email">输入电邮地址</string>
+    <string name="login">login</string>
+    <string name="remember_password">remember password</string>
+
+</resources>
